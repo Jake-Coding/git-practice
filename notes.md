@@ -1,0 +1,22 @@
+Very first time on a computer
+------------------------------
+    git config --global user.name "Jake Bridge"
+    git config --global user.email "jakebridge2005@gmail.com"
+
+
+Once every new project, in the project folder
+----------------------------------------------
+    git init 
+
+
+Every time I want to know what step I'm on
+-------------------------------------------
+    git status
+
+Process
+--------
+* change code, save it, run it --> no errors
+* add code changes to the state
+    git add filename.rb
+* commit changes
+    git commit -m "Commit message"
