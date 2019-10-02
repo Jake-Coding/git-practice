@@ -20,3 +20,8 @@ Process
     git add filename.rb
 * commit changes
     git commit -m "Commit message"
+
+Show History
+-------------
+    git log
+    
