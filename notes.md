@@ -16,7 +16,7 @@ Every time I want to know what step I'm on
 Process
 --------
 * change code, save it, run it --> no errors
-* add code changes to the state
+* add code changes to the stage
     git add filename.rb
 * commit changes
     git commit -m "Commit message"
