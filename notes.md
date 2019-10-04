@@ -24,4 +24,4 @@ Process
 Show History
 -------------
     git log
-    
+
