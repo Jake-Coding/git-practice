@@ -25,3 +25,20 @@ Show History
 -------------
     git log
 
+# Online Things
+First time on a computer
+------------------------
+    git remote -u origin master
+    git push origin master
+
+Taking files from a git repo
+-----------------------------
+    git clone URL
+
+Pushing files to repo
+--------------
+    git push
+
+Take files from repo 
+--------------------
+    git pull
