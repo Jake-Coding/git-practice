@@ -1,4 +1,6 @@
 puts "Coding is fun!!!!!"
 puts "Here's some code"
-puts "It prints \"Hello world, i dislike you\""
-puts "Hello world, i dislike you"
+puts "This code just prints words."
+puts "Watermelon"
+puts "Apple"
+puts "CJ bullies Naseem"
