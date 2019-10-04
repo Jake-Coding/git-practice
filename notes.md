@@ -25,7 +25,6 @@ Show History
 -------------
     git log
 
-# Online Things
 First time on a computer
 ------------------------
     git remote add origin url
