@@ -28,7 +28,7 @@ Show History
 # Online Things
 First time on a computer
 ------------------------
-    git remote add origin https://github.com/Jake-Coding/List-Challenges.git
+    git remote add origin url
     git push -u origin master
 
 Taking files from a git repo
